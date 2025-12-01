@@ -1,0 +1,22 @@
+# Instagram Comment Sentiment Analysis - Required Dependencies
+# Python 3.7+ recommended
+
+# Data manipulation and analysis
+pandas>=1.3.0
+
+# Natural Language Processing
+nltk>=3.6.0
+
+# Sentiment Analysis
+vaderSentiment>=3.3.2
+
+# Data visualization
+matplotlib>=3.4.0
+
+# Excel file support
+openpyxl>=3.0.0
+
+# Note: After installing requirements, run these commands in Python:
+# import nltk
+# nltk.download('stopwords')
+# nltk.download('wordnet')
